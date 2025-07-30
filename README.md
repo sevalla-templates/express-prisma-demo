@@ -8,9 +8,9 @@
     <br />
     <a href="https://sevalla.com">Deploy to Sevalla</a>
     ·
-    <a href="https://sevalla.com/docs">Sevalla Documentation</a>
-    ·
-    <a href="https://prisma.io/docs">Prisma Documentation</a>
+    <a href="https://docs.sevalla.com/">Sevalla Documentation</a>
+    <!-- · -->
+    <!-- <a href="https://prisma.io/docs">Prisma Documentation</a> -->
   </p>
 </div>
 
