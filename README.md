@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sevalla.com">
-    <img src="https://github.com/user-attachments/assets/7e0847f3-26d8-45a5-80eb-45f36ae353e3" alt="Sevalla Logo" width="80" height="80">
+    <img src="./assets/sevalla-logo.png" alt="Sevalla Logo" width="200" height="auto">
   </a>
   <h3 align="center">Express.js + Prisma Example</h3>
   <p align="center">
